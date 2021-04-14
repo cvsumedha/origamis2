@@ -1,0 +1,19 @@
+h1{
+    color:aqua;
+}
+
+.header{
+background-color:rgb(255, 0, 255);
+
+
+}
+.origami{
+background-color: rgb(166, 237, 100);
+display:flex;
+justify-content: space-evenly;
+}
+
+.footer{
+display: flex;
+justify-content: flex-start;
+}
